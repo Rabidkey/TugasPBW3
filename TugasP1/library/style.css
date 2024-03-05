@@ -1,0 +1,83 @@
+.wrapper-main{
+    width: 425px;
+    margin: 0 auto;
+    font-family: "Poppins", sans-serif;
+}
+
+.category{
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    font-style: normal;
+    color: grey;
+    text-align: center;
+    
+}
+
+.title{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    line-height: 45px;
+}
+
+.writter{
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    font-style: normal;
+    color: grey;
+    text-align: center;
+    margin-top: 1px;
+    padding: 0;
+}
+
+.daftar_isi{
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    margin-bottom: 0;
+}
+
+.daftar{
+    font-size: x-small;
+    margin-left: 20px;
+    margin-top: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.h4{
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.strong{
+    font-size:large;
+    margin: auto;
+}
+
+.desc_intro{
+    font-size: 11px;
+    margin: auto;
+    text-align: justify;
+}
+
+.desc_history{
+    font-size: 11px;
+    margin-top: 0;
+    text-align: justify;
+}
+
+.desc_uses{
+    font-size: 11px;
+    margin-top: 0;
+    text-align: justify;
+}
